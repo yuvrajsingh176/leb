@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "6507783b32e2674853371dbf",
+    "name": "avatar-1",
+    "image": "/static/avatars/avatar_1.svg"
+  },
+  {
+    "_id": "65077867a67b959c9516ff64",
+    "name": "avatar-2",
+    "image": "/static/avatars/avatar_2.svg"
+  },
+  {
+    "_id": "65077872a67b959c9516ff66",
+    "name": "avatar-3",
+    "image": "/static/avatars/avatar_3.svg"
+  },
+  {
+    "_id": "6507787aa67b959c9516ff68",
+    "name": "avatar-4",
+    "image": "/static/avatars/avatar_4.svg"
+  },
+  {
+    "_id": "65077882a67b959c9516ff6a",
+    "name": "avatar-5",
+    "image": "/static/avatars/avatar_5.svg"
+  }
+]

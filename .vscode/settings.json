@@ -1,0 +1,9 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.eol": "\n",
+  "editor.guides.bracketPairs": "active",
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2
+}

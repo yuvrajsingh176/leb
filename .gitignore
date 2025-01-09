@@ -1,0 +1,17 @@
+node_modules
+
+#env
+.env
+
+# Logs
+aroundly.pem
+error.log
+combined.log
+cron.log
+
+# Build Folders
+build
+
+# Media Downloads Folder
+downloads
+

@@ -1,0 +1,89 @@
+[
+  {
+    "_id": "6508dcea7d90ea7d81e8a018",
+    "interest_name": "🎨 Art & Craft",
+    "moods": ["🎨 creating"]
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a019",
+    "interest_name": "📕 Books & Literature",
+    "moods": []
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a01a",
+    "interest_name": "💼 Business & Networking",
+    "moods": ["💼 connecting"]
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a01b",
+    "interest_name": "🫱🏼‍🫲🏽 Community & Volunteering",
+    "moods": ["🫱🏼‍🫲🏽 sharing"]
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a01c",
+    "interest_name": "🛒 Fashion & Lifestyle",
+    "moods": ["🛒 shopping"]
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a01d",
+    "interest_name": "🍻 Food & Bev",
+    "moods": ["🥳 partying", "🍻 chilling"]
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a01e",
+    "interest_name": "📱 Gadgets & Tech",
+    "moods": []
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a01f",
+    "interest_name": "🏸 Gaming & Sports",
+    "moods": ["🏸 playing"]
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a020",
+    "interest_name": "📱 History & Culture",
+    "moods": []
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a021",
+    "interest_name": "🧘🏽 Health & Wellness",
+    "moods": ["🏸 playing", "🧘🏽 healing"]
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a022",
+    "interest_name": "🕺🏽 Music & Dance",
+    "moods": ["🕺🏽 vibing"]
+  },
+
+  {
+    "_id": "6508dcea7d90ea7d81e8a023",
+    "interest_name": "🚵🏽‍♀️ Outdoors & Adventure",
+    "moods": ["🚵🏽‍♀️ adventuring"]
+  },
+  {
+    "_id": "6598f054818b59e35e596019",
+    "interest_name": "🥳 Party & Nightlife",
+    "moods": ["🥳 partying"]
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a024",
+    "interest_name": "🐶 Pets & Animals",
+    "moods": []
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a025",
+    "interest_name": "🙏🏽 Religion & Spirituality",
+    "moods": []
+  },
+
+  {
+    "_id": "6508dcea7d90ea7d81e8a026",
+    "interest_name": "🎭 Shows & Theater",
+    "moods": ["🎭 watching"]
+  },
+  {
+    "_id": "6508dcea7d90ea7d81e8a027",
+    "interest_name": "🚙 Travel & Retreat",
+    "moods": ["🚵🏽‍♀️ adventuring"]
+  }
+]
